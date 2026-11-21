@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo-1",
+    "category": "spor",
+    "text": "Ligde haftanın son maçında Mert Işık, uzatma dakikalarında attığı golle takımına galibiyeti getirdi. Işık, maçtan sonra puan farkını kapatabileceklerini söyledi.",
+    "gold_entities": ["Mert Işık"]
+  },
+  {
+    "id": "demo-2",
+    "category": "ekonomi",
+    "text": "Yılın ikinci çeyreğinde sanayi üretimi yüzde 2 geriledi. Açıklanan verilere göre ihracat siparişlerindeki düşüş, özellikle küçük imalatçıların üretim planlarını etkiledi.",
+    "gold_entities": []
+  },
+  {
+    "id": "demo-3",
+    "category": "sağlık",
+    "text": "Uzman doktor Selin Yalçın, aile sağlığı merkezinde düzenlenen toplantıda grip aşısının kimlere önerildiğini anlattı. Toplantıyı başhemşire Ece Kılıç yönetti.",
+    "gold_entities": ["Selin Yalçın", "Ece Kılıç"]
+  },
+  {
+    "id": "demo-4",
+    "category": "kültür",
+    "text": "Yönetmen Deniz Kaya'nın yeni kısa filmi, bahar film festivalinin açılışında gösterildi. Başroldeki İpek Akın gösterimin ardından izleyicilerin sorularını yanıtladı.",
+    "gold_entities": ["Deniz Kaya", "İpek Akın"]
+  },
+  {
+    "id": "demo-5",
+    "category": "teknoloji",
+    "text": "Aziz Sancar Bilim Merkezi, tribünlerdeki yoğunluğu gerçek zamanlı ölçen yeni bir sensör sistemi geliştirdi. Sistem, Fenerbahçe'nin stadyumunda denendi. Proje mühendisi Aslı Demir, sensörlerin görüntü kaydetmeden çalıştığını açıkladı.",
+    "gold_entities": ["Aslı Demir"]
+  }
+]

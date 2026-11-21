@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Demo - 5 articles, temperature 0.0",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/evaluate.py",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart",
+      "env": { "PYTHONUTF8": "1" },
+      "args": ["data/demo.json", "${input:resultFile}", "--temperature", "0.0", "--show-replies"]
+    },
+    {
+      "name": "Demo - 5 articles, temperature 1.0",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/evaluate.py",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart",
+      "env": { "PYTHONUTF8": "1" },
+      "args": ["data/demo.json", "${input:resultFile}", "--temperature", "1.0", "--show-replies"]
+    },
+    {
+      "name": "Main experiment - 105 articles, temperature 0.0",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/evaluate.py",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart",
+      "env": { "PYTHONUTF8": "1" },
+      "args": ["data/test.json", "${input:resultFile}", "--temperature", "0.0"]
+    }
+  ],
+  "inputs": [
+    {
+      "id": "resultFile",
+      "type": "promptString",
+      "description": "Enter a new result filename (for example, vscode-demo-0.json)"
+    }
+  ]
+}

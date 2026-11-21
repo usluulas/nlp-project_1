@@ -1,0 +1,632 @@
+[
+  {
+    "id": "ttc4900:731",
+    "category": "dünya",
+    "text": "iran amerikan uçağına ateş açtı ! iran fars körfezi üzerindeki bir amerikan uçağına ateş açtığı duyuruldu pentagon dan yapılan açıklamada iran ın geçtiğimiz hafta fars körfez inde silahsız bir iha ya ateş açtığı ama isabet ettiremediği duyuruldu uçak iran hava sahasında değildi diyen sözcü insansız hava aracı nın uluslararası sularda",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:2410",
+    "category": "kültür",
+    "text": "liam neeson a kim eşlik edecek takip 2 istanbul da başrolü üstlenen liam neeson a new york ta bir stüdyoda çekilen yeni filmi non stop ta türk oyuncu özgür teke eşlik ediyor kendisiyle aynı uçakta bulunduğunu iddia eden ve uçağı düşürmekle tehdit eden bir teröristten mesaj alan hava dedektifi ni",
+    "gold_entities": ["liam neeson", "özgür teke"]
+  },
+  {
+    "id": "ttc4900:1689",
+    "category": "ekonomi",
+    "text": "ihalede matematiği yanlış yapmışız istanbul park pisti  ni 10 yıllığına işletme hakkı kazanan ancak ihale sonrası ödemesi gereken teminatı yatırmadığı için bu hakkı kaybeden istanbul mc yarışçılık  ın sahibi sinan akıman  bu işin matematiği bize yanlış geldi  dedi istanbul park  ı işletme bedelinin 10 yılda",
+    "gold_entities": ["sinan akıman"]
+  },
+  {
+    "id": "ttc4900:1144",
+    "category": "dünya",
+    "text": "taliban bir çocuk aktivisti daha tehdit etti pakistan daki taliban ın ttp hina khan isimli bir kız çocuğunu daha ölümle tehdit ettiği ileri sürüldü 14 yaşındaki hina 2009 yılında taliban ın kız çocuklarının okula gönderilmesine tepki göstererek ttp militanlarının kalesi olan malakand da taliban ın uygulamalarına tepki göstermek için basın",
+    "gold_entities": ["hina khan"]
+  },
+  {
+    "id": "ttc4900:1281",
+    "category": "dünya",
+    "text": "guatemala da silahlı saldırı 7 ölü guatemala nın başkenti guetamala city de bir sağlık kliniğine düzenlenen silahlı saldırıda 7 kişi öldü guatemalalı yetkililer 7 kişiyi vurarak öldüren saldırganların olay yerinden kaçtığını ve saldırının nedeninin araştırıldığını bildirdi guetamala dünyada şiddet olaylarının en fazla olduğu ülkelerden biri sayılıyor ve ülkede her 100",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3024",
+    "category": "sağlık",
+    "text": "sigara soğuk havada daha tehlikeli ! uzmanlar başta akciğer olmak üzere birçok kanser çeşidine neden olan sigaranın özellikle soğuk havada içilmesinin çok daha zararlı olduğunu bildirdi atatürk üniversitesi tıp fakültesi dahili tıp bilimleri göğüs hastalıkları anabilim dalı öğretim üyesi prof dr leyla sağlam sigaranın sağlık açısından çok zararlı olduğunu belirterek",
+    "gold_entities": ["leyla sağlam"]
+  },
+  {
+    "id": "ttc4900:581",
+    "category": "siyaset",
+    "text": "suç tarihinde şener paşa nın aklı yerindeydi adli tıp şener eruygur un şu an travma sonucu oluşan hafif bilişsel yetersizliğe bağlı akli arıza rahatsızlığı var adli tıp kurumu nun ergenekon davasının tutuksuz sanığı emekli orgeneral şener eruygur hakkında hazırladığı sağlık raporu mahkemeye ulaştı adli tıp kurumu şener eruygur un suç",
+    "gold_entities": ["şener eruygur"]
+  },
+  {
+    "id": "ttc4900:4742",
+    "category": "teknoloji",
+    "text": "çin de 200 milyon yıllık bitki fosili çin de bilimadamları 200 milyon yıl öncesine ait bitki fosili buldu ülkenin kuzeybatısındaki gansu eyaletindeki bayyin kentinde bulunan fosillerin çoğunun su bitkisi olduğu ve taş ocakları nedeniyle bir bölümünün tahrip olduğu belirtildi uzmanlar fosiller sayesinde döneme ait coğrafi durum ve çevre koşulları gibi",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:4634",
+    "category": "teknoloji",
+    "text": "nobel ödüllü nörolog levi montalcini öldü italyalı nobel ödüllü nörolog rita levi montalcini 103 yaşında öldü faşist yönetim sırasında yahudi aleyhtarı bir dönemde yaşayan levi montalcini ilerleyen yıllarda italya nın en üstün bilim insanlarından ve en çok saygı duyulan kişilerden biri oldu kendisinin hücreler üzerinde yaptığı araştırmalar aralarında kanserin de",
+    "gold_entities": ["rita levi montalcini"]
+  },
+  {
+    "id": "ttc4900:2537",
+    "category": "kültür",
+    "text": "nü sergiye sansür ! eskişehir deki devlet güzel sanatlar galerisi nde resim öğretmeni sanatçı emin gülören in artnüyet adlı resim sergisi büyükşehir belediye başkanı chp li yılmaz büyükerşen in de katıldığı açılış töreninin ardından galeri görevlileri tarafından duvardan indirilip ters çevrilerek yere konuldu eğitim sen şube başkanı ali paşa şanlı",
+    "gold_entities": ["emin gülören", "yılmaz büyükerşen", "ali paşa şanlı"] 
+  },
+  {
+    "id": "ttc4900:228",
+    "category": "siyaset",
+    "text": "cemil çiçek başbakan erdoğan ile görüştü türkiye büyük millet meclisi tbmm başkanı cemil çiçek yeni anayasa çalışmaları kapsamında başbakan recep tayyip erdoğan ile görüştü başbakan erdoğan tbmm başkanı çiçek i başbakanlık merkez bina nın merdivenlerinde karşıladı basına kapalı olarak yaklaşık yarım saat süren görüşmenin ardından erdoğan çiçek i aracına kadar",
+    "gold_entities": ["cemil çiçek", "recep tayyip erdoğan"] 
+  },
+  {
+    "id": "ttc4900:3206",
+    "category": "sağlık",
+    "text": "önce test sonra hap cumhuriyet üniversitesi cü kadın hastalıkları ve doğum ana bilim dalı öğretim üyesi doç dr gonca imir yenicesu doğum kontrol haplarının tetkiklerden sonra kullanılması gerektiğini bildirdi yenicesu doğum kontrol haplarının türkiye de az kullanıldığını dile getirdi bu hapların kişide bazı tetkikler yapıldıktan sonra kullanılması gerektiğini belirten yenicesu",
+    "gold_entities": ["gonca imir yenicesu"]
+  },
+  {
+    "id": "ttc4900:2564",
+    "category": "kültür",
+    "text": "ateşin düştüğü yer oscar ı yakacak türkiye nin oscar adayı ateşin düştüğü yer filminin yapımcısı baran seyhan 85 akademi ödülleri nde yarışacak filmlerin belirleneceği süreçte türkiye nin temsili için hep birlikte çalışılması gerektiğini belirterek eminim ilk beşe kalırsak veya yabancı dilde en iyi film seçilirsek burada krallar gibi karşılanacağız ama",
+    "gold_entities": ["baran seyhan"]
+  },
+  {
+    "id": "ttc4900:934",
+    "category": "dünya",
+    "text": "suriye de ateşkes sağlanırsa ordu kışlasına geri dönsün fransa dışişleri bakanlığı suriye de bayramda ateşkesin sağlanması halinde düzenli ordunun kışlasına geri dönmesini istedi bakanlık sözcüsü philippe lalliot bm ve arap birliği nin suriye özel temsilcisi el ahdar el ibrahimi nin suriye nin bayramda ateşkes ilan etmeyi kabul ettiği yolundaki açıklamaları",
+    "gold_entities": ["philippe lalliot", "el ahdar el ibrahimi"]
+  },
+  {
+    "id": "ttc4900:3099",
+    "category": "sağlık",
+    "text": "düzenli muayene ile kadın hastalıklarından korunun kadınların büyük çoğunluğu jinekolojik muayenelerine sadece herhangi bir rahatsızlıkla karşılaştıkları zaman gidiyor oysaki sık rastlanılan meme kanseri rahim ve rahim ağzı kanseri gibi birçok ciddi rahatsızlık erken tanı ile tedavi edilebiliyor memorial hizmet hastanesi kadın hastalıkları ve doğum bölümü nden uz dr meltem eğilmez",
+    "gold_entities": ["meltem eğilmez"]
+  },
+  {
+    "id": "ttc4900:1566",
+    "category": "ekonomi",
+    "text": "trans anadolu gaz hattı  na 3 yeni ortak azerbaycan doğalgazını türkiye üzerinden avrupa pazarına taşıyacak olan trans anadolu doğalgaz boru hattı projesi  ne tanap yeni ortaklar geldi petkim i satın alan azerbaycan devlet petrol şirketi socar ın botaş ve tpao ile birlikte hayata geçireceği projeye bp statoil ve",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:4846",
+    "category": "teknoloji",
+    "text": "akıllı telefonlar şimdi de idrar testi yapacak akıllı telefonlara yüklenecek bir uygulama ile idrar tahlili yapılabilecek los angeles ta düzenlenen teknoloji eğitim ve tasarım ted konferansı nda tanıtılan uchek adlı uygulama telefon kamerası ve bir ölçüm çubuğunun yardımıyla idrarda glikoz proteinler ve nitrat gibi 10 farklı unsuru test edebiliyor uygulamayı",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:75",
+    "category": "siyaset",
+    "text": "atatürk ün ankara ya gelişinin 93 yıl dönümü cumhurbaşkanı abdullah gül atatürk ün ankara ya gelişinin istiklal mücadelesini zafere ulaştıran en önemli dönüm noktalarından biri olduğunu belirterek kurtuluş savaşı nın yönetim merkezi ankara tbmm nin açılması cumhuriyet in ilanı ve birçok önemli karara ev sahipliği yapmış türkiye cumhuriyeti nin başkenti",
+    "gold_entities": ["abdullah gül", "atatürk"]
+  },
+  {
+    "id": "ttc4900:59",
+    "category": "siyaset",
+    "text": "erdoğan komisyona yazılı yanıt verecek tbmm darbe ve muhtıraları araştırma komisyonu başbakan recep tayyip erdoğan a soruları yazılı olarak gönderme kararı aldı başbakan recep tayyip erdoğan ın tbmm darbe ve muhtıraları araştırma komisyonu nun sorularına yazılı cevap vereceği bildirildi komisyon sözcüsü ak parti çankırı milletvekili idris şahin yaptığı yazılı açıklamada",
+    "gold_entities": ["recep tayyip erdoğan", "idris şahin"]
+  },
+  {
+    "id": "ttc4900:2235",
+    "category": "kültür",
+    "text": " batı gücü doğu toplumu merkeze alır  zeytinburnu kültür ve sanat merkezi  nde konuşan prof ismail coşkun doğu toplumlarında devletin topluma öncelik tanıdığına dikkat çekti prof coşkun  devlet bizatihi kötü bir kavram değildir  dedi istanbul üniversitesi edebiyat fakültesi sosyoloji bölümü anabilim dalı başkanı prof dr ismail",
+    "gold_entities": ["ismail coşkun"]
+  },
+  {
+    "id": "ttc4900:988",
+    "category": "dünya",
+    "text": "5 3 büyüklüğünde deprem abd nin california eyaletinde 5 3 büyüklüğünde deprem meydana geldi abd jeolojik araştırma merkezi nden yapılan açıklamada hafta sonu meydana gelen depremin merkez üssünün california nın 145 kilometre güneyindeki san jose bölgesi olduğu açıklandı depremde can ve mal kaybı olmadığı belirtildi aa",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3938",
+    "category": "spor",
+    "text": "son şampiyon ukrayna da dondu ! şampiyonlar ligi nde shakhtar donetsk sahasında ağırladığı son şampiyonlar ligi şampiyonu chelsea yi 2 1 mağlup etti şampiyonlar ligi e grubu nda ukrayna temsilcisi shakhtar donetsk donbass arena da ingiliz devi chelsea yi ağırladı zorlu mücadeleden shakhtar donetsk 2 1 galip ayrıldı shakhtar donetsk",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:4249",
+    "category": "teknoloji",
+    "text": "türkiye  ye daha yaratıcı girişimler lazım ! antalya rixos downtown otel  de bugün 600  ü aşkın katılımcıyla başlayan ve 2008 yılından bu yana internet girişimcileriyle yatırımcıları buluşturan etohum  startup turkey  kampı yatırımcıların gözünden türkiye  deki girişimcilik piyasasını masaya yatırdı 15 17 şubat tarihleri arasında",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:670",
+    "category": "siyaset",
+    "text": "birileri terörün bitmesini istemiyor ak parti genel başkan yardımcısı mehmet ali şahin paris te 3 kadının öldürülmesinin amacının ne olduğunun iyi analiz edilmesi gerektiğini belirterek birileri pkk terör örgütünün dağdan inmesini istemiyor silah bırakmasını istemiyor savaş yanlıları bu kadar acele ediyorken barış yanlıların daha fazla acele etmesi lazım dedi şahin",
+    "gold_entities": ["mehmet ali şahin"]
+  },
+  {
+    "id": "ttc4900:2906",
+    "category": "sağlık",
+    "text": "bazı göz damlaları reçetesiz satılamayacak sağlık bakanlığı göz muayenesinde kullanılan bazı damlaların eczanelerde reçetesiz satılmasını önlemek için genelge yayımladı genelgede suistimallerin önlenmesi için söz konusu göz damlaları sadece uzman doktorlarının reçeteye yazabileceği belirtildi sağlık bakanlığı türkiye ilaç ve tıbbi cihaz kurumu tarafından hazırlanan 81 ilin valilik sağlık kuruluşlar ve eczacı",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:2873",
+    "category": "sağlık",
+    "text": "kentlerle birlikte atık yağlar da dönüşecek çevre ve şehircilik bakanlığı kentsel dönüşümle birlikte yeni kurulacak binalarda atık yağları ayrı toplayacak bakanlık tan yapılan yazılı açıklamaya göre türkiye de kişi başına ortalama 20 kilogram yağ tüketiliyor yılda yaklaşık 1 5 milyon ton yağ gıda amaçlı piyasaya sürülürken geçen yıl türkiye de",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:1562",
+    "category": "ekonomi",
+    "text": "kıdem tazminatı fonu taşeron işçi için raftan indi taşeron işçilere rafa kaldırılan  kıdem tazminatı fonu  na benzer sistem geliyor üst işverenler tarafından alt işverene yapılacak ödemelerden kesilecek para taşeron işçiler için açılan hesaba yatırılacak iş ve işçi temsilcilerinden gelen tepkiler üzerine şimdilik rafa kaldırılan kıdem tazminatı reformu taşeron",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3050",
+    "category": "sağlık",
+    "text": "antibiyotik kullananlar dikkat gereksiz ve uygun olmayan antibiyotik kullanımının direnç gelişimine yol açması nedeniyle bazı hastalıkların tedavisinde sorun yaşandığı bildirildi karadeniz teknik üniversitesi ktü tıp fakültesi çocuk sağlığı ve hastalıkları ana bilim dalı öğretim üyesi prof dr ali baki aa muhabirine yaptığı açıklamada gereksiz ve uygun olmayan antibiyotik kullanımının önemli",
+    "gold_entities": ["ali baki"]
+  },
+  {
+    "id": "ttc4900:1606",
+    "category": "ekonomi",
+    "text": "bank asya  ya yeni yönetim kurulu başkanı bank asya  da denetleme kurulu üyeliği görevini yürüten prof dr erhan birgili bank asya yönetim kurulu başkanlığı  na atandı yeni yönetim kurulu başkanı prof dr erhan birgili atamayla ilgili olarak  öncelikle bankamızın yönetim kurulu başkanlığı  nı üç yıldır",
+    "gold_entities": ["erhan birgili"]
+  },
+  {
+    "id": "ttc4900:2077",
+    "category": "ekonomi",
+    "text": "ve kara cuma başladı abd de şükran günü nün ertesinde başlayıp noel e kadar devam eden alışveriş çılgınlığı kara cuma büyük bir hızla start aldı posta internet abd de normalde şükran günü nün ertesi sabahı başlayan ve noel e kadar süren indirimli günler bu yıl şükran günü ile birlikte başladı",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:338",
+    "category": "siyaset",
+    "text": "meclis te bir ilk tbmm genel kurulu nda muharrem iftarı dolayısıyla birleşime ara verildi tbmm genel kurulu nda birleşimi yöneten başkanvekili mehmet sağlam mhp nin kobi lerin takibe düşen kredi borçları konusunda grup önerisinin görüşmeleri sürerken muharrem iftarı nedeniyle 45 dakika ara veriyorum ibadet eden arkadaşların da ibadetinin kabul edilmesini",
+    "gold_entities": ["mehmet sağlam"]
+  },
+  {
+    "id": "ttc4900:1630",
+    "category": "ekonomi",
+    "text": "marmarabirlik ten avrupa atağı marmara zeytin tarım satış kooperatifleri birliği marmarabirlik yönetim kurulu başkanı hidamet asa şimdiye kadar avrupa pazarına tek distribütör aracılığıyla ürün sattıklarını ancak bunun yeterli olmadığını belirterek  avrupa ülkelerine sofralık zeytin ihracatını bundan sonra uygulamaya koyacağımız çoklu bayilik sistemi ile 6 bin tona çıkarmayı hedefliyoruz ",
+    "gold_entities": ["hidamet asa"]
+  },
+  {
+    "id": "ttc4900:4847",
+    "category": "teknoloji",
+    "text": "1000 kişilik ekip tweet lerinizi izliyor ! çin in twitter benzeri platformu weibo nun kurduğu 1000 kişilik özel ekip sakıncalı bulduğu mesajları silmekle görevli dünyanın aksine kendi uygulama ve platformlarını kullanmayı tercih eden çin da google yerine baidu twitter yerine de aynı işlevi gören weibo servisi ilgi görüyor ancak weibo",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3843",
+    "category": "spor",
+    "text": "nba de sonuçlar ve puan durumları nba de heyecan dün gece oynanan karşılaşmalar ile devam etti işte nba de dün gece oynanan maçların ardından doğu ve batı konferanslarında oluşan puan durumları doğu konferansi bati konferansi puan durumları ile ilgili önemli not w galibiyet l mağlubiyet pct galibiyet oranı nba de",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:1429",
+    "category": "ekonomi",
+    "text": "eyalet bazında masaya oturalım türkiye ile abd arasında ticaret ve yatırımları geliştirmek için mutabakat zaptı imzalandı türkiye odalar ve borsalar birliği tobb başkanı rifat hisarcıklıoğlu abd ticaret odası ile imzaladıkları mutabakat zaptının türkiye abd ortaklığının stratejik niteliğini göz önünde tutarak tüm ekonomik ve ticari alanları kapsadığını söyledi hisarcıklıoğlu türk iş",
+    "gold_entities": ["rifat hisarcıklıoğlu"]
+  },
+  {
+    "id": "ttc4900:254",
+    "category": "siyaset",
+    "text": "anayasa yı kullandırtmayacağız chp li oran anayasa üzerinden kariyer planlamasına izin vermeyeceğiz chp istanbul milletvekili umut oran anayasa çalışmaları kapsamında birilerinin gelecekte kendi kariyerini planlamasına izin vermeyeceğiz dedi chp istanbul milletvekili umut oran tbmm de düzenlediği basın toplantısında anayasa uzlaşma komisyonu çalışmaları ve ak parti nin başkanlık sistemi önerisini değerlendirdi",
+    "gold_entities": ["umut oran"]
+  },
+  {
+    "id": "ttc4900:637",
+    "category": "siyaset",
+    "text": "14 dokunulmazlık dosyası meclis te bdp genel başkanı selahattin demirtaş ın da aralarında bulunduğu 14 milletvekiline ait dokunulmazlık dosyası tbmm de bdp genel başkanı ve hakkari milletvekili selahattin demirtaş bdp diyarbakır milletvekili emine ayna bdp siirt milletvekili gültan kışanak bdp istanbul milletvekili sebahat tuncel bdp batman milletvekili ayla akat bdp",
+    "gold_entities": ["selahattin demirtaş", "emine ayna", "gültan kışanak", "sebahat tuncel", "ayla akat"]
+  },
+  {
+    "id": "ttc4900:3931",
+    "category": "spor",
+    "text": "fener in yeni alex i diego gelenek bozulmadı f bahçe nin yeni 10 numarası yine bir brezilyalı olacak sarı lacivertli yönetim bu yaz transfer döneminde çok isteyip de alamadığı yıldız futbolcu için ocakta wolfsburg un kapısını bir kez daha çalacak almanlar tam 9 milyon euro bonservis bedeli istiyor şener türkmenoğlu",
+    "gold_entities": ["diego", "şener türkmenoğlu", "alex"]
+  },
+  {
+    "id": "ttc4900:1754",
+    "category": "ekonomi",
+    "text": "kazablanka tramvayına türk imzası enerji ve taşımacılık alanında faaliyet gösteren fransız alstom  un fas  ın kazablanka kentinde hayata geçirdiği raylı tramvay sisteminin tüm bakım depoları türk firması yapı merkezi tarafından inşa edildi 600 milyon euro  ya mal olan kazablanka tramvay sistemi için yeni bir yapılanmayla kentsel rehabilitasyon",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:2014",
+    "category": "ekonomi",
+    "text": "emeklilik şirketleri gelir kaybına uğrayacak garanti emeklilik genel müdürü cemal onaran bireysel emeklilikte katılımcılardan yapılan yönetim ve fon işletim kesintilerini hazine  nin düşürdüğünü belirterek emeklilik şirketlerinin bundan dolayı ciddi gelir kaybına uğrayacağını ve kârlılıklarının azalacağını söyledi garanti emeklilik genel müdürü cemal onaran emeklilik şirketlerinin katılımcılardan yaptıkları yönetim ve fon",
+    "gold_entities": ["cemal onaran"]
+  },
+  {
+    "id": "ttc4900:3723",
+    "category": "spor",
+    "text": "sol bileği 6 hafta alçıda kalacak spor toto süper lig takımlarından sivasspor da forma giyen çek futbolcu milan cerny sakatlığı nedeniyle istanbul da ameliyat oldu cerny acıbadem fulya hastanesi sporcu sağlığı merkezi nde sol ayak bileğinden ameliyat edildi ortopedi ve travmatoloji uzmanı prof dr ömer taşer tarafından gerçekleştirilen ameliyatta cerny",
+    "gold_entities": ["milan cerny", "ömer taşer"]
+  },
+  {
+    "id": "ttc4900:3568",
+    "category": "spor",
+    "text": "bayern münih ilk yenilgisini aldı bundesliga 9 haftasında bayer leverkusen e yenilen lider bayern münih bu sezon ilk mağlubiyetini aldı bu sezon 8 karşılaşmanın tümünü kazanarak bundesliga tarihinin en iyi başlangıcını yapan bayern münih sahasında bayer leverkusen e stefan kiessling ve sindey sam ın golleriyle 2 1 yenildi bayern münih",
+    "gold_entities": ["stefan kiessling", "sindey sam"]
+  },
+  {
+    "id": "ttc4900:796",
+    "category": "dünya",
+    "text": "bulut sütunu na karşı siccil taşı israil in dün başlattığı ve gazze şeridi ni hedef alan operasyon bütün gece devam etti iki tarafın saldırılara verdiği isimler kutsal kitaplardan geliyor hamas ın askeri kanadı izzeddin el kassam tugayları nın israil ordusunun bulut operasyonu na karşı siccil taşı adını verdikleri misilleme kapsamında",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:2974",
+    "category": "sağlık",
+    "text": "inatçı öksürüğe en tatlı çözüm ingiltere de yapılan bir araştırma siyah çikolatanın kronik öksürüğe iyi geldiğini ortaya koydu siyah çikolatanın içinde yüksek çayda ise az oranda bulunan teobromin molekülü öksürüğe yol açan refleksi azaltıyor araştırmayı yürüten ekibin başkanı prof alyn morice reçetesiz satılan öksürük ilaçlarının çok etkili olmadığını belirterek şurupların",
+    "gold_entities": ["alyn morice"]
+  },
+  {
+    "id": "ttc4900:4004",
+    "category": "spor",
+    "text": "fenerbahçe 175 maçına çıkıyor uefa avrupa ligi c grubu ndaki üçüncü maçında yarın kıbrıs rum kesimi nin ael limassol takımıyla karşılaşacak fenerbahçe avrupa kupalarında 175 maçına çıkacak avrupa arenasında bugüne dek 174 maça çıkan sarı lacivertliler 59 maçta sahadan galibiyetle ayrılırken 33 beraberlik ve 82 yenilgi aldı avrupa kupası maçlarında",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:1839",
+    "category": "ekonomi",
+    "text": "zihniyet devrimine ihtiyaç var ekonomi bakanı zafer çağlayan türkiye nin üretim ve ihracat yapısıyla 2023 hedeflerini yakalamasının asla mümkün olmadığını belirterek sanayimizde bir zihniyet devrimine ihtiyaç var bugün türkiye dünkü metotlarla yarına bir yere gidemez dedi ekonomi bakanlığı türkiye ihracatçılar meclisi tim ve endüstriyel tasarımcılar meslek kuruluşu etmk iş birliğiyle",
+    "gold_entities": ["zafer çağlayan"]
+  },
+  {
+    "id": "ttc4900:4055",
+    "category": "spor",
+    "text": "amrabat inandı ! işte o sözler galatasaray ın cluj ile berabere kaldığı şampiyonlar ligi karşılaşması sonrasında nordin amrabat sonucu değerlendirdi galatasaray ın faslı futbolcusu nordin amrabat cluj ile berabere kaldıkları maçın ardından görüşlerini dile getirdi amrabat yaptığı açıklamada maçta birçok hikaye var ama en büyük hikaye saha şartları yağmurun bu",
+    "gold_entities": ["nordin amrabat"]
+  },
+  {
+    "id": "ttc4900:3764",
+    "category": "spor",
+    "text": "taraftara özel mezarlık schalke 04 futbol kulübü sadık taraftarları için hazırladığı mezarlık kullanıma açıldı taraftarların girişimiyle schalke fan feld adı altında gelsenkirchen kentindeki beckhausen sutum mezarlığının 3600 metrekarelik bölümünü satın alan kulüp ventils stadı  na 500 metre uzaklıktaki kısmını takıma gönül vermiş kişilerin kullanımına tahsis etti alanın orta bölümünde",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:1984",
+    "category": "ekonomi",
+    "text": "sağlıkta özel ve genel farkı türkiye  deki sağlık sistemini mercek altına alan uluslararası yatırımcılar derneği  nin yased hazırladığı sağlık raporu ilginç ayrıntılar ortaya koydu tam gün yasasının yürürlüğe girmesinden önceki rakamlarla hazırlanan rapora göre türkiye  deki devlet hastanelerinde doluluk oranı yüzde 64 özel hastanelerde yüzde 51 oldu",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:179",
+    "category": "siyaset",
+    "text": "bakanlar kurulu toplandı bakanlar kurulu başbakan recep tayyip erdoğan ın başkanlığında toplandı başbakanlık merkez bina daki toplantı saat 11 40 ta başladı başbakan erdoğan a toplantıya gelirken irfan başbuğ caddesi nde bazı vatandaşlar sevgi gösterisinde bulundu bunun üzerine makam aracını durduran erdoğan vatandaşlarla bir süre sohbet etti vatandaşların erdoğan a",
+    "gold_entities": ["recep tayyip erdoğan"]
+  },
+  {
+    "id": "ttc4900:2510",
+    "category": "kültür",
+    "text": "yüzüklerin efendisi davalık oldu  the hobbit  filminin oscar ödüllü yönetmeni peter jackson  ın şirketine çekimler sırasında 27 hayvanı telef ettiği gerekçesiyle soruşturma başlatıldı oscar ödüllü yeni zelandalı yönetmen peter jackson  ın şirketi hakkında soruşturma açıldı jackson 14 aralık  ta gösterime girecek  the hobbit unexpected",
+    "gold_entities": ["peter jackson"]
+  },
+  {
+    "id": "ttc4900:4344",
+    "category": "teknoloji",
+    "text": "işte yeni xbox ın ilk oyunu yeni nesil xbox için geliştirilen ilk oyunun ismi ortaya çıktı hakkında çıkan dedikoduların tavan yaptığı yeni jenerasyon xbox ın her ne kadar microsoft tarafından hakkında konuşulmasa da bu yılın ilk yarısı sonunda piyasaya çıkacağı yönünde büyük ölçüde fikir birliği bulunuyor aylar önce karşımıza çıkan",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:2185",
+    "category": "kültür",
+    "text": "eserleri 17 milyon dolara satıldı abd li ünlü ressam film yapımcısı ve yayıncı andy warhol un 350 den fazla eseri new york ta yapılan açık artırmada toplam 17 milyon dolara satıldı christie s müzayede evi internet sitesinde yaptığı açıklamada en yüksek fiyata satılan eserin 1 2 milyon dolara alıcı bulan",
+    "gold_entities": ["andy warhol"]
+  },
+  {
+    "id": "ttc4900:3305",
+    "category": "sağlık",
+    "text": "şizofreni hastaları takip edilecek tedavi gören ya da hiç hastaneye gitmemiş şizofrenlerin kayıt altına alınmasıyla şizofrenlerin suç işlemesinin engellenmesi amaçlanıyor emniyet yetkilileri antalya da ekim ayında 3 polisin öldürülmesi olayının faili çağrı danışman ın şizofren olduğunun ortaya çıkması üzerine şiddet eğilimli şizofreni hastalarının polis kontrolünde tutulması için çalışma başlattı tedbir",
+    "gold_entities": ["çağrı danışman"]
+  },
+  {
+    "id": "ttc4900:1328",
+    "category": "dünya",
+    "text": "işte çin in yeni liderleri çin i 10 yıllığına yönetecek çin komünist partisi nin çkp 7 yeni ismi açıklandı buna göre çkp merkez komitesi yeni genel sekreterliğine xi jinping seçildi dün sona eren çkp nin 18 genel kongresinin ardından seçilen partinin merkez komite üyeleri ülkenin yönetiminde söz sahibi olacak politbüronun",
+    "gold_entities": ["xi jinping"]
+  },
+  {
+    "id": "ttc4900:2884",
+    "category": "sağlık",
+    "text": "nefesler tutuldu ikizler ayrıldı abd de göğüs ve karından yapışık siyam ikizleri başarılı bir ameliyatla birbirinden ayrıldı doktorlar philadelphia çocuk hastanesi nde 7 saat süren ameliyatla birbirinden ayrılan 8 aylık ikiz kız kardeşlerin sağlık durumunun iyi olduğunu söyledi new york ta doğan allison ve amelia tucker kardeşlerin karaciğerleri diyaframları göğüs",
+    "gold_entities": ["allison", "amelia tucker"]
+  },
+  {
+    "id": "ttc4900:4762",
+    "category": "teknoloji",
+    "text": "osmanlı nın savaşları oyun oluyor osmanlı imparatorluğu döneminde yapılan savaşları konu edinen web tabanlı bilgisayar oyunu geliştirmek üzere bir araya gelen 6 kişi 1 5 yıl süren çalışmalarda askeri karakterler ile konsept çizimleri tamamlanan oyunu 3 ay içerisinde teste hazır hale getirmeyi planlıyor elazığ da yaşayan oyunun karakterlerini ve mekanlarını",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3112",
+    "category": "sağlık",
+    "text": "14 kasım dünya diyabet günü böbrek yetmezliği erken dönemde saptandığında birtakım tedaviler ile önlenebiliyor ya da ilerlemesi yavaşlatılabiliyor anadolu sağlık merkezi iç hastalıkları ve nefroloji uzmanı doç dr enes murat atasoyu diyabetin böbrek sağlığı üzerindeki olumsuz etkileri hakkında bilgi veriyor kontrol altına alınmamış diyabet kronik böbrek yetmezliğinin en önemli nedeni",
+    "gold_entities": ["enes murat atasoyu"]
+  },
+  {
+    "id": "ttc4900:846",
+    "category": "dünya",
+    "text": "duvarda asılı silah varsa o patlar rus dışişleri bakanı patriot ların bölgeyi daha da istikrarsızlaştığını savunduğu açıklamasında çehov un ünlü sözüne atıfta bulundu moskova da bangladeş dışişleri bakanı dipu moni ile yaptığı görüşme sonrasında basın mensuplarına açıklamada bulunan rusya dışişleri bakanı sergey lavrov türkiye ye yerleştirilmesi muhtemel olan patriot füzesi",
+    "gold_entities": ["sergey lavrov", "dipu moni", "çehov"]
+  },
+  {
+    "id": "ttc4900:3217",
+    "category": "sağlık",
+    "text": "kemik iliği naklinin babası öldü löseminin en başarılı tedavi yöntemlerinden kemik iliği naklinin babası doktor e donnall thomas abd de hayatını kaybetti fred hutchison kanser araştırma merkezi thomas ın dün seattle da 92 yaşında hayata veda ettiğini bildirirken sözcüsü ünlü doktorun ölüm nedenini kalp krizi olarak açıkladı 1990 yılında nobel",
+    "gold_entities": ["e donnall thomas"]
+  },
+  {
+    "id": "ttc4900:2200",
+    "category": "kültür",
+    "text": "bir şeyler eksik alt 27 11 2012 21 00 çoğunlukla çağdaş müzikler çalan bir orkestra projesi bir şeyler eksik repertuvarda gretchen parlato wayne shorter esperanza spalding david binney mark zubek vs gibi müzisyenlerden örnekler var ve tabii sürprizler çağıl kaya vokal serhan erkol alto saksafon tamer temel tenor saksafon soprano",
+    "gold_entities": ["gretchen parlato", "wayne shorter", "esperanza spalding", "david binney", "mark zubek", "çağıl kaya", "serhan erkol", "tamer temel"]
+  },
+  {
+    "id": "ttc4900:4296",
+    "category": "teknoloji",
+    "text": "crysis in mimarları istanbul da şube açtı crytek oyun teknolojileri şirketi kurucularından cevat yerli gelişmekte olan türk oyun pazarının uluslararası piyasada hak ettiği yere getirebilmek için istanbul merkez ofisini açtıklarını belirterek  önümüzdeki 5 yıl içerisinde türkiye ye toplam 20 milyon avroluk yatırım yapacağız  dedi çırağan sarayı nda bilim",
+    "gold_entities": ["cevat yerli"]
+  },
+  {
+    "id": "ttc4900:805",
+    "category": "dünya",
+    "text": "afganistan da 9 taliban öldürüldü afganistan da yürütülen operasyonlarda 9 taliban üyesinin öldürüldüğü bildirildi afganistan içişler bakanlığı ndan yapılan açıklamada afgan polisi ve ülkede görevli koalisyon gücüne bağlı birliklerce son 24 saatte yürütülen operasyonlarında 9 taliban ın öldürüldüğü 8 inin de yaralandığı belirtildi nengarhar tahar kunduz faryab belh kandahar zabil",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:733",
+    "category": "dünya",
+    "text": "pakistan da beyin yiyen amip kabusu pakistan ın en büyük kenti olan karaçi de son birkaç ay içinde en az 10 kişinin nadir görülen beyin yiyen amip nedeniyle yaşamını yitirdiği bildirildi yetkililer parazitin kaynağının henüz bilinmediği belirtti hayatını kaybedenlerin amipi burunlarını çektikleri sudan aldıkları sanılıyor hastalığa yol açan naegleria fowleri",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:171",
+    "category": "siyaset",
+    "text": "engelsiz kart a bakan şahin de destek verdi adana büyükşehir belediyesi başkanvekili zihni aldırmaz ın kartvizitleriniz engelsiz olsun kampanyasına aile ve sosyal politikalar bakanı fatma şahin de destek verdi gaziantep teki 7 dünya ipekyolu belediye başkanları forumu na katılan zihni aldırmaz burada görüştüğü bakan fatma şahin e görme engellilerin rahatça",
+    "gold_entities": ["zihni aldırmaz", "fatma şahin"]
+  },
+  {
+    "id": "ttc4900:790",
+    "category": "dünya",
+    "text": "sendai havalimanı uçuşlara yeniden açıldı japonya nın en büyük havalimanlarından sendai havalimanı nda dün 2 dünya savaşı ndan kalma bomba bulunmasının ardından iptal edilen uçuşlara yeniden başlandı ülkenin kuzeyinde bulunan sendai havalimanı ndaki inşaat esnasında askeri birlikler 2 dünya savaşı ndan kalma 250 kilogram ağırlığında bir bomba bulmuş ve 92",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:2210",
+    "category": "kültür",
+    "text": "herakles  i görmeye geldik abd  den getirtilerek alt kaidesiyle birleştirilip antalya müzesi  nde geçen yıl 9 ekim  den itibaren sergilenmeye başlanan  yorgun herakles  heykeli yerli ve yabancı turistlerin ilgi odağı oldu antalya kültür ve turizm il müdürlüğü verilerine göre  yorgun herakles  heykelinin",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:2792",
+    "category": "kültür",
+    "text": "pera müzesi belgesel etkinliğine ev sahipliği yapacak suna ve inan kıraç vakfı pera müzesi 11 26 ocak 2013 te aklın gözü françois caillat belgeselleri ile 12 30 ocak 2013 te yeni yılda deneysel masallar programlarına ev sahipliği yapacak müzeden yapılan açıklamaya göre yeni yılın ilk programında l institut français işbirliğiyle",
+    "gold_entities": ["françois caillat"]
+  },
+  {
+    "id": "ttc4900:2848",
+    "category": "sağlık",
+    "text": "yılbaşında gıda zehirlenmelerine dikkat ! yılbaşı gecesi ani ve aşırı yemek tüketiminin yeni yıldaki ilk dileğimiz olan sağlık için büyük tehlike oluşturduğunu biliyor muydunuz central hospital dan beslenme ve diyet uzmanı deniz şafak yılbaşı gecesinde yaşanabilecek gıda zehirlenmeleriyle ilgili uyarıyor ve ekliyor yeni yıla sağlıkla merhaba demek isteyenler özellikle aşırı",
+    "gold_entities": ["deniz şafak"]
+  },
+  {
+    "id": "ttc4900:4591",
+    "category": "teknoloji",
+    "text": "google ücretsiz arama hizmetine devam edecek google abd ve kanada daki gmail kullanıcılarına verdiği ücretsiz telefon araması hizmetine 2013 te de devam edileceğini açıkladı gmail in resmi blogu üzerinden yayınladığı yazısında google talk un ürün müdürü mayur kamat tarafından duyurulan bu haber sesli aramalar konusunda gmail in yaptığı büyük bir",
+    "gold_entities": ["mayur kamat"]
+  },
+  {
+    "id": "ttc4900:956",
+    "category": "dünya",
+    "text": "rusya da son 20 yılın en soğuk kışı rusya  yı aniden kış bastırdı kış soğuklarını unutan vatandaşlar kar yağışı veya şehir trafiğini felç eden  buz yağmurları  na maruz kaldı meteoroloji uzmanları bu kışın son 20 yılın en soğuk kışı olacağı konusunda uyarıda bulundu moskova  da 4",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:664",
+    "category": "siyaset",
+    "text": "meclis in internet sitesi yenilendi tbmm nin sitesine görme engellilerin kolay erişimi ve farklı dillerde izlenme imkanı sağlandı türkiye büyük millet meclisi nin tbmm internet sitesi yenilendi tbmm başkanı cemil çiçek meclis in www tbmm gov tr internet sitesinin yenilenmesi dolayısıyla sayfanın açılışındaki mesajında vatandaşların yasama ve denetim faaliyetlerinden tam",
+    "gold_entities": ["cemil çiçek"]
+  },
+  {
+    "id": "ttc4900:2562",
+    "category": "kültür",
+    "text": "tolkien in mirasçıları da davacı oldu ingiliz yazar j r r tolkien in ailesi the lord of the rings yüzüklerin efendisi ve the hobbit filmlerinin yapımcılarına yazarın eserlerini ticari meta haline getirdikleri iddiasıyla dava açtı aile internette oynanan kumar makineleri dahil birçok üründe yazarın ve yazarın yarattığı fantastik dünyanın karakterlerini",
+    "gold_entities": ["j r r tolkien"]
+  },
+  {
+    "id": "ttc4900:4477",
+    "category": "teknoloji",
+    "text": "yok satan tablet geri dönüyor microsoft un birkaç saatte tükenen tablet bilgisayarı tekrar raflara dönüyor microsoft un uzun zamandır beklenen yeni tablet bilgisayarı surface pro cumartesi akşamı satışa çıktı satışa sunulmasıyla beraber birkaç saat içinde tamamen tükenen cihazı temin etmeye çalışanlar stokta yok uyarısıyla karşılaşmaya başladı microsoft tan kaç adet",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:482",
+    "category": "siyaset",
+    "text": "uçakları sisten başka şehre indi bakan şimşek futbol federasyonu başkanı demirören ve nihat özdemir i taşıyan özel uçak batman yerine siirt e indi maliye bakanı mehmet şimşek futbol federasyonu başkanı yıldırım demirören ve nihat özdemir i taşıyan özel uçak batman daki yoğun sis nedeniyle siirt havaalanına iniş yaptı",
+    "gold_entities": ["mehmet şimşek", "yıldırım demirören", "nihat özdemir"]
+  },
+  {
+    "id": "ttc4900:280",
+    "category": "siyaset",
+    "text": "başbakan ın görevleri arasında bu var mı chp genel başkan yardımcısı umut oran ın başbakan erdoğan a türkiye cumhuriyeti anayasası nda başbakan ın görevleri arasında dizi senaryolarını denetlemek gibi bir tanım var mıdır sorusunu da sorduğu önerge tbmm başkanlığı na sunuldu chp genel başkan yardımcısı umut oran ın başbakan erdoğan",
+    "gold_entities": ["umut oran", "erdoğan"]
+  },
+  {
+    "id": "ttc4900:4361",
+    "category": "teknoloji",
+    "text": "facebook tarih olabilir ! teknoloji zirvesi nde konuşan guy kawasaki 5 yıl sonrası için ilginç iddialar ortaya attı teknoloji zirvesi nin bu yılki ana konuşmacısı guy kawasaki ntvmsnbc nin sorularını yanıtlarken teknoloji gündeminin önemli maddelerine değindi bazı markalar vardır ki isimleri söylendiğinde size ve büyükbabanıza aynı anlamı ifade eder bu",
+    "gold_entities": ["guy kawasaki"]
+  },
+  {
+    "id": "ttc4900:3045",
+    "category": "sağlık",
+    "text": "dr irgil memenin kuyruk yağından farkı yok balikesir de düzenlenen meme kanserinde yeni yaklaşımlar konulu panelde konuşan opr dr ceyhun irgil her yıl binlerce kadının ölümüne neden olan memenin kuyruk yağından farkı olmadığını ve sadece emzirmeye yarayan bir organ olduğunu açıkladı özünde yağ kitlesi olan memenin göz kol ayak gibi",
+    "gold_entities": ["ceyhun irgil"]
+  },
+  {
+    "id": "ttc4900:1967",
+    "category": "ekonomi",
+    "text": "sirkeci  de büyük pazarlık wal mart ile migros arasında istanbul  da gerçekleşen pazarlık sürecinin en kritik bölümü eminönü  ndeki hamdi restorant  da yapıldı ingiliz bc partners elindeki migros hisselerini satarsa şirketin değerinin 4 milyar doların üzerine çıkması bekleniyor görüşmeler sürüyor dünyanin en büyük perakende zinciri wal",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:1408",
+    "category": "ekonomi",
+    "text": "şirketlerin kâr sevinci tüpraş deva holding iş bankası ve finansbank ın yılın ilk 9 aylık dönemindeki karları açıklandı tüpraş 978 milyon tl tüpraş yılın ilk 9 aylık döneminde piyasa beklentilerin üzerine kâr ederek karı 978 milyon tl  ye çıkarttı bir önceki dönemde rakam 919 milyon tl seviyesindeydi çeyreklik bazda",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3787",
+    "category": "spor",
+    "text": "fenerbahçe kıbrıs rum kesimi ne gitti fenerbahçe uefa avrupa ligi c grubu nda deplasmanda kıbrıs rum kesimi takımı ael limassol ile yarın oynayacağı üçüncü maç için bu ülkeye gitti sabiha gökçen uluslararası havalimanı ndan yunan hava yolu şirketi olympic airlines e ait özel uçakla rodos adası üzerinden larnaka ya giden",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3647",
+    "category": "spor",
+    "text": "antakya nın rakibi çekiliyor fiba kadınlar eurocup  ta homend antakya  nın h grubu  ndaki rakibi elitzur ramla avrupa  dan çekiliyor israil basınını haberine göre ekonomik kriz yaşayan elitzur ramla yabancı oyuncularıyla yollarını ayırıp eurocup  tan çekilecek bugün oynanması gereken lig maçının da ertelenmesini isteyen ramla",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3842",
+    "category": "spor",
+    "text": "ptt 1 lig de 1 liraya futbol keyfi ptt 1 lig de pazar günü oynanacak manisaspor samsunspor maçında kale arkası tribün biletlerinin 1 liradan satılacağı bildirildi manisaspor basın sözcüsü hakan kadayıfçılar yaptığı yazılı açıklamada yönetim kurulu toplantısında 11 kasım pazar saat 16 00 da manisa 19 mayıs stadı nda oynanacakları",
+    "gold_entities": ["hakan kadayıfçılar"]
+  },
+  {
+    "id": "ttc4900:2674",
+    "category": "kültür",
+    "text": "handimals sergisi 2 ocak ta açılacak insan eline hayvan figürleri çizerek nesli tükenen hayvanları destekleyen italyan sanatçı daniele guido nun handimals adlı sergisi 2 15 ocak tarihleri arasında beylikdüzü migros alışveriş merkezi nde görülebilecek italyan sanatçı guido nun seçmece işlerinden derlenen handimals başlıklı sergi türkiye deki ilk sergisi olma özelliği",
+    "gold_entities": ["daniele guido"]
+  },
+  {
+    "id": "ttc4900:4132",
+    "category": "spor",
+    "text": "şampiyonlar ligi nde günün programı şampiyonlar ligi nde bugün 4 grupta toplam 8 maç oynanırken borussia dortmund ile real madrid karşılaşması nefesleri kesecek ülkemizden tek takımın mücadele ettiği şampiyonlar ligi nde bugün 8 maç oynanacak heyecan c grubu nda türkiye saati ile saat 19 00 da başlayacak olan zenit anderlecht",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:928",
+    "category": "dünya",
+    "text": "kerkük te 9 kişi öldü irak ın kuzeyinde bulunan kerkük şehrinde bu sabah meydana gelen 4 ayrı patlamada aralarında çöpçülerin de bulunduğu 9 kişi öldü 37 kişi de yaralandı ilk patlama sabah saatlerinde kerkük bağdat yolu üzerinde meydana geldi park halinde bulunan bir bomba yüklü aracın patlamasıyla çevre temizliği yapan",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3643",
+    "category": "spor",
+    "text": "hatayspor bulunmak istediği yere ulaşacak spor toto 2 lig kırmızı grup takımlarından hatayspor un teknik direktörü ahmet ertem hatayspor un bulunmak istediği yere mutlaka ulaşacağını belirtti ertem antakya ticaret ve sanayi odası nda düzenlediği basın toplantısında geçen hafta zorlu deplasmanda oynadıkları kahramanmaraşspor karşısında oynamak istedikleri oyunu sahaya yansıtarak istediklerini aldıklarını",
+    "gold_entities": ["ahmet ertem"]
+  },
+  {
+    "id": "ttc4900:1867",
+    "category": "ekonomi",
+    "text": "avm  lerin  çekiliş  yarışı kızıştı yeni yıl öncesi alışveriş merkezleri avm düzenledikleri kampanyalarla müşterilerine lüks araçlardan konuta varana kadar çeşitli hediyeler dağıtıyor ankara  da peş peşe açılan avm  ler yoğun rekabet ortamında müşteri çekebilmek için bir çok kampanya ve etkinlik düzenliyor avm  ler müşterilerine",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:557",
+    "category": "siyaset",
+    "text": "arınç 3 değil 13 dönem daha iktidar başbakan yardımcısı arınç milletimiz desteğini devam ettirirse 3 dönem değil herhalde 13 dönem daha türkiye de ak parti nin iktidarını herkes görecek ve yaşayacak dedi başbakan yardımcısı bülent arınç ak parti genel merkez siyasi ve hukuki işler başkanlığı nca genel merkezde düzenlenen siyasi",
+    "gold_entities": ["bülent arınç"]
+  },
+  {
+    "id": "ttc4900:2205",
+    "category": "kültür",
+    "text": "kitap kazananlar belli oldu onlar sorduğumuz soruya doğru cevap verdiler ve bizden portobello sokağı nı kazandılar işte kitap kazanan 20 şanslı hurriyet com tr okuyucumuz büşra erdoğan / istanbul gökçe gök / ankara ömer faruk baylan / ankara turgay birol / kırıkkale aydan yalçınkaya / edirne aysun doğrulmaz / kahramanmaraş",
+    "gold_entities": ["büşra erdoğan", "gökçe gök", "ömer faruk baylan", "turgay birol", "aydan yalçınkaya", "aysun doğrulmaz"]
+  },
+  {
+    "id": "ttc4900:726",
+    "category": "dünya",
+    "text": "cemil çiçek bakü de türkiye büyük millet meclisi tbmm başkanı cemil çiçek azerbaycan ın başkenti bakü ye geldi çiçek karadeniz ekonomik işbirliği parlamenter asamblesi keipa genel kurul toplantısı na katılacak özel uçak dap ile bakü ye gelen çiçek ve beraberindeki heyeti azerbaycan meclis başkan yardımcısı ziyafet askerov ve türkiye nin",
+    "gold_entities": ["cemil çiçek", "ziyafet askerov"]
+  },
+  {
+    "id": "ttc4900:3189",
+    "category": "sağlık",
+    "text": "sigara fıtık gelişimini kolaylaştırıyor fiziksel tıp ve rehabilitasyon uzmanı prof dr erbil dursun sigaranın disk beslenmesini bozarak fıtık gelişimini kolaylaştırdığını bildirdi prof dr dursun aa muhabirine yaptığı açıklamada bel kayması ve disk kaymasının halk dilinde kullanılan terimler olduğunu belirterek bunların disk hernisi ya da bel fıtığı şeklinde nitelendirildiğini söyledi omurlar",
+    "gold_entities": ["erbil dursun"]
+  },
+  {
+    "id": "ttc4900:1836",
+    "category": "ekonomi",
+    "text": "ev alana oturma izni euro bölgesi  nde yaşanan borç krizinden en çok etkilenen ülkeler ispanya ve yunanistan avrupa birliği vatandaşı olmayanların da bu ülkelerden ev alması halinde oturma izni verecek avrupa  da borç kriziyle karşı karşıya kalan ülkeler gelir artırıcı formüller üzerinde çalışıyor önceki gün ispanya 160 bin",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:3200",
+    "category": "sağlık",
+    "text": "gangnam dansı öldürdü bu yıl tüm dünyada popüler olan gangnam dansı bir kişinin ölümüne neden oldu ingiltere de yaşayan 46 yaşındaki eamonn kilbride gangnam dansı yaptıktan sonra bir göğüs ağrısı hissettiğini söyledi ve daha sonra kalp krizi geçirdi 3 çocuk babası kilbride ofiste gerçekleştirdikleri yeni yıl partisinden sonra öldü hastaneye",
+    "gold_entities": ["eamonn kilbride"]
+  },
+  {
+    "id": "ttc4900:2146",
+    "category": "kültür",
+    "text": "anjelika  dan şaşırtıcı bir düzenleme anjelika akbar  ın mozart  ın  türk marşı  adlı eserin doğu perküsyonları ve türk müziği ezgileri ile harmanladığı son çalışması  türk marşı varyasyonu  büyük beğeni topladı ünlü besteci ve piyanist anjelika akbar her ne kadar piyano konçertoları ve senfonik",
+    "gold_entities": ["anjelika akbar", "mozart"]
+  },
+  {
+    "id": "ttc4900:4315",
+    "category": "teknoloji",
+    "text": "apple a kulanıcılardan tokat gibi cevap apple ın 3 ay önce ios 6 işletim sistemiyle iphone ve ipad lerden çıkardığı google maps uygulaması geri döndü yoğun ilgi gören uygulama 8 saat içinde en çok indirilen uygulamalar listesinde bir numaraya yerleşti dün sabah saatlerinde yayınlanan ve 8 saat içinde app store",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:2446",
+    "category": "kültür",
+    "text": "bir infazın portresi çevre tiyatrosu 26 12 12 29 12 12 20 30 semaver kumpanya sezona ülkemizde ilk kez sahnelenecek olan çağdaş ingiliz yazar howard barker  ın bir infazın portresi adlı oyunu ile devam etmeye hazırlanıyor dilimize ani haddeler ve yavuz pekman tarafından çevrilen oyunun yönetmenliğini ise zeynep su",
+    "gold_entities": ["howard barker", "ani haddeler", "yavuz pekman", "zeynep su"]
+  },
+  {
+    "id": "ttc4900:3724",
+    "category": "spor",
+    "text": "depoda yeterli benzin vardı red bull takım patronu christian horner sebastian vettel in deposunda zorunlu olan 1 litrelik benzinin bulunduğunu ancak kuralların şasinin kaldırılmasını engellediği için depodan bu miktarda benzin çıkarılamadığını söyledi turkiyef1 com un haberine göre fia yarış hakemleri tarafından açıklanan kararda incelemeyi yapan görevlilerin depoda numune maksadıyla olması",
+    "gold_entities": ["sebastian vettel", "christian horner"]
+  },
+  {
+    "id": "ttc4900:2534",
+    "category": "kültür",
+    "text": "neden yoksulluk başlıyor neden yoksulluk sorusunun cevabı cnn türk ekranlarında yanıt bulacak why poverty adlı belgesel projesi 25 kasım dan itibaren 2 ay boyunca cumartesi günleri cnn türk te yayınlanacak",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:4431",
+    "category": "teknoloji",
+    "text": "blackberry i seçtiler teknoloji devi rim pentagon dan sonra abd hükümetinin de tercihi oldu her ne kadar akıllı telefon pazarında küçük bir payı olsa da rim kendi kitlesini elinde tutmaya devam ediyor özellikle güvenilirlik söz konusu olduğunda rakiplerini açık ara geride bırakan rim bu sebeple pentagon un tercihi olmuş ve",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:395",
+    "category": "siyaset",
+    "text": "günay dan revizyon açıklaması değiştirilecek bakanlar arasında ismi olduğu iddia edilen kültür ve turizm bakanı ertuğrul günay dan ilk açıklama başbakan erdoğan senegal dönüşü uçakta kabine revizyonu konusunda her an her şey olabilir dedi ankara da kulisler hareketlendi değiştirilecek bakanlar arasında kültür ve turizm bakanı ertuğrul günay ın da olduğu",
+    "gold_entities": ["ertuğrul günay", "erdoğan"]
+  },
+  {
+    "id": "ttc4900:4899",
+    "category": "teknoloji",
+    "text": "çöpe gidiyorlar apple 775 bin uygulamayla app store dan övgü dolu sözlerle bahsediyor ancak ortalama bir kullanıcı telefonunda sadece 16 adet uygulama kullanıyor telefon pazarındaki rekabetin bir parçası olan uygulama pazarında apple ipi göğüsleyen isim konumunda 750 bini aşkın uygulama yelpazesiyle uygulama pazarında bir numara olan apple ı google yakından",
+    "gold_entities": []
+  },
+  {
+    "id": "ttc4900:944",
+    "category": "dünya",
+    "text": "şimon peres in rusya abd yorumu israil cumhurbaşkanı şimon peres iran  ın nükleer sorununu çözmek için rusya ve abd  nin birlikte çalışacağını umuyor perşembe günü moskova da yahudi müzesi ve hoşgörü merkezi nin açılışında konuşan peres  ben rusya  nın da nükleer silahın iran  ın eline",
+    "gold_entities": ["şimon peres"]
+  },
+  {
+    "id": "ttc4900:4666",
+    "category": "teknoloji",
+    "text": "rus başbakan türkiye yi gezdi ! rusya başbakanı dmitry medvedev ünlü rus arama motoru yandex  in merkezini ziyaret ederek şirketin çalışmalarını yerinde inceledi medvedev  e arama motorunun  yandex browser  programı tanıtılıp nasıl çalıştığı konusunda bilgi verildi teknolojiye yakınlığı ile bilinen medvedev ne zamandan beridir bilgisayarıma yüklemeyi",
+    "gold_entities": ["dmitry medvedev"]
+  },
+  {
+    "id": "ttc4900:3784",
+    "category": "spor",
+    "text": "tiger woods istanbul için avantaj olabilir dünyanın en fazla kazanan sporcularının başında gelen abd  li golfçü tiger woods türkiye  de kaldığı 4 gün boyunca gençlik ve spor bakanlığının resmi yayını olan gençlik spor dergisinden başka hiçbir yayın organına konuşmadı thy world golf final turnuvası için geçtiğimiz günlerde antalya",
+    "gold_entities": ["tiger woods"]
+  }
+]

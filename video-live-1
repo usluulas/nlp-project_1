@@ -1,0 +1,159 @@
+{
+  "model": "llama3.2:3b",
+  "options": {
+    "seed": 42,
+    "num_ctx": 2048,
+    "num_predict": 256,
+    "top_k": 40,
+    "top_p": 0.9,
+    "temperature": 0.0
+  },
+  "settings": {
+    "prompt-only": {
+      "summary": {
+        "samples": 5,
+        "raw_parse_rate": 0.0,
+        "cleaned_parse_rate": 1.0,
+        "schema_validity_rate": 1.0,
+        "classification_accuracy": 0.4,
+        "classification_macro_f1": 0.3333333333333333,
+        "entity_micro_f1": 0.631578947368421
+      },
+      "rows": [
+        {
+          "id": "demo-1",
+          "raw": "```\n{\n  \"category\": \"spor\",\n  \"entities\": [\n    \"Mert Işık\"\n  ]\n}\n```",
+          "raw_parse_ok": false,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "spor",
+          "predicted_category": "spor",
+          "entity_tp": 1,
+          "entity_fp": 0,
+          "entity_fn": 0
+        },
+        {
+          "id": "demo-2",
+          "raw": "```\n{\n  \"category\": \"ekonomi\",\n  \"entities\": [\n    \"yıl\",\n    \"çeyreş\",\n    \"sanayi\",\n    \"ihracat\",\n    \"siparişler\",\n    \"küçük imalatçılar\"\n  ]\n}\n```",
+          "raw_parse_ok": false,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "ekonomi",
+          "predicted_category": "ekonomi",
+          "entity_tp": 0,
+          "entity_fp": 6,
+          "entity_fn": 0
+        },
+        {
+          "id": "demo-3",
+          "raw": "```\n{\n  \"category\": \"dünya\",\n  \"entities\": [\n    \"Selin Yalçın\",\n    \"Ece Kılıç\"\n  ]\n}\n```",
+          "raw_parse_ok": false,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "sağlık",
+          "predicted_category": "dünya",
+          "entity_tp": 2,
+          "entity_fp": 0,
+          "entity_fn": 0
+        },
+        {
+          "id": "demo-4",
+          "raw": "```\n{\n  \"category\": \"dünya\",\n  \"entities\": [\n    \"Deniz Kaya\",\n    \"İpek Akın\"\n  ]\n}\n```",
+          "raw_parse_ok": false,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "kültür",
+          "predicted_category": "dünya",
+          "entity_tp": 2,
+          "entity_fp": 0,
+          "entity_fn": 0
+        },
+        {
+          "id": "demo-5",
+          "raw": "```\n{\n  \"category\": \"ekonomi\",\n  \"entities\": [\n    \"Aslı Demir\",\n    \"Aziz Sancar\"\n  ]\n}\n```",
+          "raw_parse_ok": false,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "teknoloji",
+          "predicted_category": "ekonomi",
+          "entity_tp": 1,
+          "entity_fp": 1,
+          "entity_fn": 0
+        }
+      ]
+    },
+    "schema-constrained": {
+      "summary": {
+        "samples": 5,
+        "raw_parse_rate": 1.0,
+        "cleaned_parse_rate": 1.0,
+        "schema_validity_rate": 1.0,
+        "classification_accuracy": 0.4,
+        "classification_macro_f1": 0.3333333333333333,
+        "entity_micro_f1": 0.631578947368421
+      },
+      "rows": [
+        {
+          "id": "demo-1",
+          "raw": "{\n  \"category\": \"spor\",\n  \"entities\": [\n    \"Mert Işık\"\n  ]\n}",
+          "raw_parse_ok": true,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "spor",
+          "predicted_category": "spor",
+          "entity_tp": 1,
+          "entity_fp": 0,
+          "entity_fn": 0
+        },
+        {
+          "id": "demo-2",
+          "raw": "{\n  \"category\": \"ekonomi\",\n  \"entities\": [\n    \"Yıl\",\n    \"çeyreş\",\n    \"sanayi\",\n    \"ihracat\",\n    \"siparişler\",\n    \"küçük imalatçılar\"\n  ]\n}",
+          "raw_parse_ok": true,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "ekonomi",
+          "predicted_category": "ekonomi",
+          "entity_tp": 0,
+          "entity_fp": 6,
+          "entity_fn": 0
+        },
+        {
+          "id": "demo-3",
+          "raw": "{\n  \"category\": \"dünya\",\n  \"entities\": [\n    \"Selin Yalçın\",\n    \"Ece Kılıç\"\n  ]\n}",
+          "raw_parse_ok": true,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "sağlık",
+          "predicted_category": "dünya",
+          "entity_tp": 2,
+          "entity_fp": 0,
+          "entity_fn": 0
+        },
+        {
+          "id": "demo-4",
+          "raw": "{\n  \"category\": \"dünya\",\n  \"entities\": [\n    \"Deniz Kaya\",\n    \"İpek Akın\"\n  ]\n}",
+          "raw_parse_ok": true,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "kültür",
+          "predicted_category": "dünya",
+          "entity_tp": 2,
+          "entity_fp": 0,
+          "entity_fn": 0
+        },
+        {
+          "id": "demo-5",
+          "raw": "{\n  \"category\": \"ekonomi\",\n  \"entities\": [\n    \"Aslı Demir\",\n    \"Aziz Sancar\"\n  ]\n}",
+          "raw_parse_ok": true,
+          "cleaned_parse_ok": true,
+          "schema_ok": true,
+          "gold_category": "teknoloji",
+          "predicted_category": "ekonomi",
+          "entity_tp": 1,
+          "entity_fp": 1,
+          "entity_fn": 0
+        }
+      ]
+    }
+  }
+}
